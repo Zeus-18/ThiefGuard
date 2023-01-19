@@ -130,5 +130,5 @@ with the significant outcomes.
 
 You can contact my other mates-
 1. [Parmeet Singh Banwait](https://github.com/Dedmondium)
-2. MVN Rajesh Reddy
+2. [MVN Rajesh Reddy](https://github.com/rajeshreddy-1707)
 3. Sparsh Handa
