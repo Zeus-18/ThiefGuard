@@ -124,6 +124,8 @@ may occur and will occur. Some of them are stated below:
 
 ● Theft Detection
 ● In malls can be of lost items
+
+
 6.5 INFERENCE
 In this chapter, we came to know about the real world examples of our project along
 with the significant outcomes.
